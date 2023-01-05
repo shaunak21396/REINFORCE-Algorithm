@@ -10,4 +10,4 @@ Training a Neural Network by Policy Gradient Reinforcement Learning method "REIN
   4. Open AI gym
 
 - <b>Implementation of Pytorch NN for Policy gradient method in Reinforcement Learning.
-- <b>Plotting Reward vs epoch for illustrating the Learning process of the Deep-Q-Network.
+- <b>Plotting Reward vs epoch for illustrating the Learning process of the Neural Network.
